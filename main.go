@@ -9,6 +9,6 @@ import (
 
 func main() {
 	app.Run("StructView", func(w *unison.Window) {
-		StructView.New(w).Layout(w.Content())
+		structView.New(w).Layout(w.Content())
 	})
 }
