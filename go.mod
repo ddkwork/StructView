@@ -2,7 +2,7 @@ module github.com/ddkwork/StructViewDemo
 
 go 1.22.3
 
-require github.com/richardwilkes/unison v0.69.1
+require github.com/richardwilkes/unison v0.70.1
 
 require (
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
