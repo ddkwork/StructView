@@ -1,6 +1,6 @@
 module github.com/ddkwork/StructViewDemo
 
-go 1.22.3
+go 1.22.4
 
 require github.com/richardwilkes/unison v0.71.0
 
