@@ -2,7 +2,7 @@ module github.com/ddkwork/StructViewDemo
 
 go 1.22.3
 
-require github.com/richardwilkes/unison v0.70.1
+require github.com/richardwilkes/unison v0.71.0
 
 require (
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
@@ -14,8 +14,8 @@ require (
 	github.com/richardwilkes/json v0.2.0 // indirect
 	github.com/richardwilkes/toolbox v1.114.1 // indirect
 	github.com/rogpeppe/go-internal v1.12.0 // indirect
-	github.com/yuin/goldmark v1.7.1 // indirect
-	golang.org/x/exp v0.0.0-20240604190554-fc45aab8b7f8 // indirect
+	github.com/yuin/goldmark v1.7.2 // indirect
+	golang.org/x/exp v0.0.0-20240613232115-7f521ea00fb8 // indirect
 	golang.org/x/image v0.17.0 // indirect
 	golang.org/x/sys v0.21.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
