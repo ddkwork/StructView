@@ -6,7 +6,7 @@ require github.com/richardwilkes/unison v0.71.0
 
 require (
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
-	github.com/ddkwork/golibrary v0.0.65 // indirect
+	github.com/ddkwork/golibrary v0.0.66 // indirect
 	github.com/go-gl/gl v0.0.0-20231021071112-07e5d0ea2e71 // indirect
 	github.com/go-gl/glfw/v3.3/glfw v0.0.0-20240506104042-037f3cc74f2a // indirect
 	github.com/google/uuid v1.6.0 // indirect
