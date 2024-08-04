@@ -12,7 +12,7 @@ require (
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/pkg/term v1.2.0-beta.2 // indirect
 	github.com/richardwilkes/json v0.3.0 // indirect
-	github.com/richardwilkes/toolbox v1.114.2 // indirect
+	github.com/richardwilkes/toolbox v1.99.0 // indirect
 	github.com/rogpeppe/go-internal v1.12.0 // indirect
 	github.com/yuin/goldmark v1.7.4 // indirect
 	golang.org/x/exp v0.0.0-20240719175910-8a7402abbf56 // indirect
