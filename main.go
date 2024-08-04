@@ -3,7 +3,7 @@ package main
 import (
 	"StructView"
 
-	"github.com/ddkwork/unison/widget"
+	"github.com/ddkwork/app/widget"
 
 	"github.com/ddkwork/unison"
 	"github.com/ddkwork/unison/app"
